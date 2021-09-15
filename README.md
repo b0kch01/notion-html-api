@@ -1,3 +1,7 @@
+```
+💥 my instance of Potion by benborgers
+```
+
 # Potion
 
 Potion is a reverse-engineered API for [Notion](https://notion.so). Write your content in Notion, and use Potion's hosted API endpoints to read your content.
